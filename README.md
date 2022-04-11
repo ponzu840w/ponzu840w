@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mulwak
 - 👀 I’m interested in MOS 6502!!!
-- 🌱 I’m currently learning HDL to discribe new original 65xx peripheral IC on a CPLD.
+- 🌱 I’m currently designing a CP/M-like OS that runs on the original 6502 machine.
 - 📫 ponzu840w@yahoo.co.jp
 
 <!---
