@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mulwak
+- 👋 Hi, I’m @mulwak, aka ponzu840w
 - 👀 I’m interested in MOS 6502!!!
 - 🌱 I’m currently designing a CP/M-like OS that runs on my original 6502 machine.
 - 📫 ponzu840w@yahoo.co.jp
